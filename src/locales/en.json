@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "Launch App",
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "copy": "Copy Address",
+    "copied": "Copied!"
+  },
+  "landing": {
+    "tagline": "Powered by Reya Network",
+    "headline": "Predict. Bet. Win.",
+    "subheadline": "Real-time crypto prediction markets on Reya Network. Trade on outcomes, earn on accuracy.",
+    "cta": "Enter Platform",
+    "features": {
+      "live": { "title": "Live Data", "desc": "Real-time prices from CoinGecko & on-chain feeds" },
+      "multi": { "title": "Multi-Outcome Bets", "desc": "Polymarket-style prediction markets with multiple options" },
+      "wallet": { "title": "Wallet Connect", "desc": "Native Reya Network support via WalletConnect" },
+      "charts": { "title": "Real-time Charts", "desc": "Interactive price charts updating every second" }
+    },
+    "stats": {
+      "volume": "Total Volume",
+      "traders": "Active Traders",
+      "markets": "Open Markets"
+    }
+  },
+  "dashboard": {
+    "predictions": "Prediction Markets",
+    "marketInfo": "Market Info",
+    "newMarket": "+ Create Market",
+    "placeBet": "Place Bet",
+    "betAmount": "Bet Amount (USDC)",
+    "betPlaced": "Bet placed successfully!",
+    "connectFirst": "Connect wallet to place bets",
+    "volume": "Total Volume 24h",
+    "trades": "Total Trades",
+    "accounts": "Active Accounts",
+    "openInterest": "Open Interest",
+    "liveTrades": "Live Trades",
+    "liveCharts": "Live Token Charts",
+    "lastUpdated": "Last updated",
+    "loading": "Loading...",
+    "error": "Failed to load data",
+    "retry": "Retry",
+    "settlement": "Settles",
+    "probability": "Probability",
+    "history": "Price History"
+  },
+  "market": {
+    "createTitle": "Create New Market",
+    "question": "Market Question",
+    "options": "Options",
+    "addOption": "+ Add Option",
+    "settlement": "Settlement Date",
+    "create": "Create Market",
+    "cancel": "Cancel",
+    "optionPlaceholder": "Option {{n}}"
+  },
+  "wallet": {
+    "title": "Connect Wallet",
+    "subtitle": "Connect to trade on Reya Markets",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "Browser Wallet",
+    "portfolio": "My Portfolio",
+    "address": "Address",
+    "network": "Network",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "Wrong Network",
+    "switchNetwork": "Switch to Reya Network"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

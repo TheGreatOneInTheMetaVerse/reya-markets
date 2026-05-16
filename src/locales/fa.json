@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "ورود به پلتفرم",
+    "connect": "اتصال کیف پول",
+    "disconnect": "قطع اتصال",
+    "copy": "کپی آدرس",
+    "copied": "کپی شد!"
+  },
+  "landing": {
+    "tagline": "ساخته شده روی شبکه Reya",
+    "headline": "پیش‌بینی کن. شرط ببند. برنده شو.",
+    "subheadline": "بازارهای پیش‌بینی کریپتو به‌صورت زنده روی شبکه Reya. روی نتایج معامله کن، از دقتت کسب درآمد کن.",
+    "cta": "ورود به پلتفرم",
+    "features": {
+      "live": { "title": "داده‌های زنده", "desc": "قیمت‌های لحظه‌ای از CoinGecko و فیدهای آنچین" },
+      "multi": { "title": "شرط‌بندی چندگزینه‌ای", "desc": "بازارهای پیش‌بینی به سبک Polymarket با چند گزینه" },
+      "wallet": { "title": "اتصال کیف پول", "desc": "پشتیبانی بومی از شبکه Reya از طریق WalletConnect" },
+      "charts": { "title": "چارت‌های زنده", "desc": "چارت‌های قیمت تعاملی که هر ثانیه به‌روز می‌شوند" }
+    },
+    "stats": {
+      "volume": "حجم کل",
+      "traders": "معامله‌گران فعال",
+      "markets": "بازارهای باز"
+    }
+  },
+  "dashboard": {
+    "predictions": "بازارهای پیش‌بینی",
+    "marketInfo": "اطلاعات بازار",
+    "newMarket": "+ ساخت بازار جدید",
+    "placeBet": "ثبت شرط",
+    "betAmount": "مبلغ شرط (USDC)",
+    "betPlaced": "شرط با موفقیت ثبت شد!",
+    "connectFirst": "برای شرط‌بندی کیف پول وصل کن",
+    "volume": "حجم کل ۲۴ ساعته",
+    "trades": "کل معاملات",
+    "accounts": "حساب‌های فعال",
+    "openInterest": "قرارداد باز",
+    "liveTrades": "معاملات زنده",
+    "liveCharts": "چارت‌های زنده توکن",
+    "lastUpdated": "آخرین به‌روزرسانی",
+    "loading": "در حال بارگذاری...",
+    "error": "خطا در بارگذاری داده",
+    "retry": "تلاش مجدد",
+    "settlement": "تسویه",
+    "probability": "احتمال",
+    "history": "تاریخچه قیمت"
+  },
+  "market": {
+    "createTitle": "ساخت بازار جدید",
+    "question": "سوال بازار",
+    "options": "گزینه‌ها",
+    "addOption": "+ افزودن گزینه",
+    "settlement": "تاریخ تسویه",
+    "create": "ساخت بازار",
+    "cancel": "انصراف",
+    "optionPlaceholder": "گزینه {{n}}"
+  },
+  "wallet": {
+    "title": "اتصال کیف پول",
+    "subtitle": "برای معامله در Reya Markets وصل شو",
+    "metamask": "متامسک",
+    "walletconnect": "WalletConnect",
+    "injected": "کیف پول مرورگر",
+    "portfolio": "پورتفولیوی من",
+    "address": "آدرس",
+    "network": "شبکه",
+    "reyaNetwork": "شبکه Reya",
+    "wrongNetwork": "شبکه اشتباه",
+    "switchNetwork": "تغییر به شبکه Reya"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}
